@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: b1e806abdcf454c4fb962fdcf21ee021
+timeCreated: 1518402197
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Chest
+    100004: ChestRig
+    100006: Cube
+    100008: Cylinder
+    100010: Cylinder.001
+    100012: Cylinder.002
+    100014: Cylinder.003
+    100016: //RootNode
+    100018: Estomach
+    100020: EstomachRig
+    100022: HeadRig
+    100024: HeadRig_end
+    100026: LeftArmy2
+    100028: LeftArmyRig
+    100030: LeftArmyStart
+    100032: LeftFoot
+    100034: LeftFootRig
+    100036: LeftFootRig_end
+    100038: LeftHandRig
+    100040: LeftHandRig_end
+    100042: LeftHip
+    100044: LeftKnee2
+    100046: LeftKnee3
+    100048: LeftKneeRig
+    100050: LeftKneeStart
+    100052: LeftShoulder
+    100054: NeckRig
+    100056: NeckStart
+    100058: RightArmy2
+    100060: RightArmyRig
+    100062: RightArmyRig.001
+    100064: RightArmyRig.001_end
+    100066: RightArmyStart
+    100068: RightFootStart
+    100070: RightHip
+    100072: RightKnee2
+    100074: RightKnee3
+    100076: RightKneeRig
+    100078: RightKneeStart
+    100080: RightShoulder
+    100082: RiightFootRig
+    100084: RiightFootRig_end
+    400000: Armature
+    400002: Chest
+    400004: ChestRig
+    400006: Cube
+    400008: Cylinder
+    400010: Cylinder.001
+    400012: Cylinder.002
+    400014: Cylinder.003
+    400016: //RootNode
+    400018: Estomach
+    400020: EstomachRig
+    400022: HeadRig
+    400024: HeadRig_end
+    400026: LeftArmy2
+    400028: LeftArmyRig
+    400030: LeftArmyStart
+    400032: LeftFoot
+    400034: LeftFootRig
+    400036: LeftFootRig_end
+    400038: LeftHandRig
+    400040: LeftHandRig_end
+    400042: LeftHip
+    400044: LeftKnee2
+    400046: LeftKnee3
+    400048: LeftKneeRig
+    400050: LeftKneeStart
+    400052: LeftShoulder
+    400054: NeckRig
+    400056: NeckStart
+    400058: RightArmy2
+    400060: RightArmyRig
+    400062: RightArmyRig.001
+    400064: RightArmyRig.001_end
+    400066: RightArmyStart
+    400068: RightFootStart
+    400070: RightHip
+    400072: RightKnee2
+    400074: RightKnee3
+    400076: RightKneeRig
+    400078: RightKneeStart
+    400080: RightShoulder
+    400082: RiightFootRig
+    400084: RiightFootRig_end
+    2100000: Material.005
+    2100002: Material.006
+    2100004: Material.003
+    2100006: Material.004
+    2100008: Material
+    2100010: Material.001
+    2100012: Material.002
+    4300000: Cylinder.003
+    4300002: Cylinder.002
+    4300004: Cylinder.001
+    4300006: Cylinder
+    4300008: Cube
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Cylinder
+    13700004: Cylinder.001
+    13700006: Cylinder.002
+    13700008: Cylinder.003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
